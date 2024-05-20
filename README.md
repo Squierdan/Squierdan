@@ -1,16 +1,44 @@
-### Hi there 👋
+👋 ¡Hola! Soy Elian C.
+ 
+ 
 
-<!--
-**Squierdan/Squierdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Acerca de Mí
+Soy un Ingeniero de Software apasionado por la Ciberseguridad. Me encanta la configuración de Redes, Sistemas de Información, Seguridad Informática, Pentesting y siempre estoy buscando aprender y mejorar mis habilidades en Programación, Gestión de Proyectos y mi camino a ser CISO.
 
-Here are some ideas to get you started:
+🌟 Habilidades
+Lenguajes de Programación: 
+ Java
+ Python
+ C++
+ C
+ 
+Frameworks y Librerías: 
+ 
+ 
+Herramientas y Tecnologías: 
+ 
+ 
+📈 Estadísticas de GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+💼 Proyectos Destacados
+🚀 Nombre del Proyecto 1
+Descripción breve del proyecto 1 y su propósito.
+
+🚀 Nombre del Proyecto 2
+Descripción breve del proyecto 2 y su propósito.
+
+🚀 Nombre del Proyecto 3
+Descripción breve del proyecto 3 y su propósito.
+
+🌐 Conéctate Conmigo
+LinkedIn
+Twitter
+Correo Electrónico
+📚 Últimos Artículos del Blog
+Título del Artículo 1
+Breve descripción del artículo 1.
+Título del Artículo 2
+Breve descripción del artículo 2.
+Título del Artículo 3
+Breve descripción del artículo 3.
